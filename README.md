@@ -1,25 +1,21 @@
+### Hi there, I'm İlker 👋
 
+I'm a passionate **Full Stack Developer** who loves turning ideas into reality through clean and efficient code. I enjoy building projects from the ground up and continuously learning new technologies.
 
-# Kodluyoruz İlk Repo
-Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluşturduğumuz ilk repo, içerisinde bir adet README dosyası, bir adet de index.html bulunduruyor.
+---
 
-## Installation
-Öncelikle projeyi clonelayın(Buraya sizin reponuzdan aldığınız link gelecek)
-```
-git clone https://github.com/ilkerdrn/ilkerdrn.git
-```
-## Usage
-Projeyi cloneladıktan sonrta Visual Code Programını açınız.
-Linux için:
-```
-cd kodluyoruzilkrepo
-code .
-```
-## Contributing
-Pull requestler kabul edilir. Büyük Değişikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
+🚀 **About Me**
 
+- 🔭 Currently working on: Modern web apps & APIs  
+- 🌱 Learning: DevOps, TypeScript, and advanced system design  
+- 💬 Ask me about: JavaScript, React, Node.js, Express, MongoDB, and Git  
+- ⚡ Fun fact: I enjoy solving algorithmic problems and playing amateur football  
+---
 
-## Gorsel
+🛠 **Tech Stack**
 
-![Lorem Picsum](https://picsum.photos/200/300)
-
+```bash
+💻 Frontend:   React.js • Next.js • HTML • CSS • Tailwind • JavaScript  
+🧠 Backend:    Node.js • Express • MongoDB • PostgreSQL  
+🛠 Tools:      Git & GitHub • Docker • VS Code • Postman  
+☁️ DevOps:     Linux • CI/CD (in progress)
